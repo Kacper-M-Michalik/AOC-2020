@@ -9,74 +9,7 @@ namespace Day23
     class Program
     {
         static void Main(string[] args)
-        {
-            /*
-            List<int> Cups = new List<int>() { 8,5,3,1,9,2,6,4,7 };
-
-            int CurrentLabel = Cups[0];
-            int CurrentCupIndex = 0;
-
-            for (int i = 0; i < 10; i++)
-            {
-                CurrentCupIndex = Cups.IndexOf(CurrentLabel);
-                List<int> NextCups = GetNextThreeCups(CurrentCupIndex);
-                CurrentCupIndex = Cups.IndexOf(CurrentLabel);
-                int DestinationCupIndex = GetDestinationCupIndex(Cups[CurrentCupIndex]);
-                Cups.InsertRange(DestinationCupIndex+1, NextCups);
-
-                if (Cups.IndexOf(CurrentLabel) + 1 >= Cups.Count)
-                {
-                    CurrentLabel = Cups[0];
-                }
-                else
-                {
-                    CurrentLabel = Cups[Cups.IndexOf(CurrentLabel) + 1];
-                }
-
-            }
-            Console.Read();
-
-            List<int> GetNextThreeCups(int Index)
-            {
-                List<int> Numbers = new List<int>();
-                if (Index > Cups.Count - 4)
-                {                    
-                    int CupsFromEnd = Cups.Count - (Index + 1);
-                    Numbers.AddRange(Cups.GetRange(Index+1, CupsFromEnd));
-                    Numbers.AddRange(Cups.GetRange(0,3-CupsFromEnd));
-                    Cups.RemoveRange(Index+1, CupsFromEnd);
-                    Cups.RemoveRange(0, 3 - CupsFromEnd);
-                    return Numbers;
-
-                }
-                else
-                {
-                    Numbers.AddRange(Cups.GetRange(Index+1, 3));
-                    Cups.RemoveRange(Index+1, 3);
-                    return Numbers;
-                }
-            }
-
-            int GetDestinationCupIndex(int CurrentCupLabel)
-            {
-                int i = CurrentCupLabel-1;
-                while (i > 0)
-                {
-                    if (Cups.IndexOf(i) == -1)
-                    {
-                        i--;
-                    }
-                    else
-                    {
-                        return Cups.IndexOf(i);
-                    }
-                }
-                return Cups.IndexOf(Cups.Max());
-
-            }
-
-            */
-
+        {            
             string Numbers = System.IO.File.ReadAllLines("Data.txt")[0];
 
             //Give in cup label, outputs next cup label

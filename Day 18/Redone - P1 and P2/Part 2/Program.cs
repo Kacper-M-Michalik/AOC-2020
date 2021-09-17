@@ -102,7 +102,6 @@ namespace Part_2
 
             string[] Lines = System.IO.File.ReadAllLines("Data.txt");
 
-
             Dictionary<string, int> Precedences = new Dictionary<string, int>();
             Precedences.Add("-", 1);
             Precedences.Add("+", 2);
