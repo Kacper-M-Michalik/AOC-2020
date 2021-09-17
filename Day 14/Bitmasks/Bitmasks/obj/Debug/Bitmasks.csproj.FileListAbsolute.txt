@@ -1,0 +1,7 @@
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\bin\Debug\Bitmasks.exe.config
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\bin\Debug\Bitmasks.exe
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\bin\Debug\Bitmasks.pdb
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\obj\Debug\Bitmasks.csprojAssemblyReference.cache
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\obj\Debug\Bitmasks.csproj.CoreCompileInputs.cache
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\obj\Debug\Bitmasks.exe
+E:\Professional Programming\Advent Code\Day 14\Bitmasks\Bitmasks\obj\Debug\Bitmasks.pdb

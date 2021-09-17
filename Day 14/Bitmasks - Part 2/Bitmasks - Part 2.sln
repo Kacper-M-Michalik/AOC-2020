@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitmasks - Part 2", "Bitmasks - Part 2\Bitmasks - Part 2.csproj", "{2CDBB912-F14B-4054-9CFB-043A12F591AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDBB912-F14B-4054-9CFB-043A12F591AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDBB912-F14B-4054-9CFB-043A12F591AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDBB912-F14B-4054-9CFB-043A12F591AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDBB912-F14B-4054-9CFB-043A12F591AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5619CA-43E6-4244-82AD-9F08AC0AA393}
+	EndGlobalSection
+EndGlobal

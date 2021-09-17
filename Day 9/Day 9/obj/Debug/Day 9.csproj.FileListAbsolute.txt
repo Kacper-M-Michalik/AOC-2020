@@ -1,0 +1,23 @@
+E:\Advent Code\Day 9\Day 9\Day 9\bin\Debug\Day 9.exe.config
+E:\Advent Code\Day 9\Day 9\Day 9\bin\Debug\Day 9.exe
+E:\Advent Code\Day 9\Day 9\Day 9\bin\Debug\Day 9.pdb
+E:\Advent Code\Day 9\Day 9\Day 9\obj\Debug\Day 9.csprojAssemblyReference.cache
+E:\Advent Code\Day 9\Day 9\Day 9\obj\Debug\Day 9.csproj.CoreCompileInputs.cache
+E:\Advent Code\Day 9\Day 9\Day 9\obj\Debug\Day 9.exe
+E:\Advent Code\Day 9\Day 9\Day 9\obj\Debug\Day 9.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\bin\Debug\Data.txt
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\bin\Debug\Day 9.exe.config
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\bin\Debug\Day 9.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\bin\Debug\Day 9.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\obj\Debug\Day 9.csprojAssemblyReference.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\obj\Debug\Day 9.csproj.CoreCompileInputs.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\obj\Debug\Day 9.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\Day 9\obj\Debug\Day 9.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\bin\Debug\Data.txt
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\bin\Debug\Day 9.exe.config
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\bin\Debug\Day 9.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\bin\Debug\Day 9.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\obj\Debug\Day 9.csprojAssemblyReference.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\obj\Debug\Day 9.csproj.CoreCompileInputs.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\obj\Debug\Day 9.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 9\Day 9\obj\Debug\Day 9.pdb

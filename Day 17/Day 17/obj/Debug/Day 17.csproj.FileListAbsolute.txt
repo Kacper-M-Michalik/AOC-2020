@@ -1,0 +1,15 @@
+E:\Advent Code\Day 17\Day 17\Day 17\bin\Debug\Day 17.exe.config
+E:\Advent Code\Day 17\Day 17\Day 17\bin\Debug\Day 17.exe
+E:\Advent Code\Day 17\Day 17\Day 17\bin\Debug\Day 17.pdb
+E:\Advent Code\Day 17\Day 17\Day 17\obj\Debug\Day 17.csprojAssemblyReference.cache
+E:\Advent Code\Day 17\Day 17\Day 17\obj\Debug\Day 17.csproj.CoreCompileInputs.cache
+E:\Advent Code\Day 17\Day 17\Day 17\obj\Debug\Day 17.exe
+E:\Advent Code\Day 17\Day 17\Day 17\obj\Debug\Day 17.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\bin\Debug\Data.txt
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\bin\Debug\Day 17.exe.config
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\bin\Debug\Day 17.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\bin\Debug\Day 17.pdb
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\obj\Debug\Day 17.csprojAssemblyReference.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\obj\Debug\Day 17.csproj.CoreCompileInputs.cache
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\obj\Debug\Day 17.exe
+E:\Professional Programming\Github Repositories\Advent-Of-Code-2020\Day 17\Day 17\Day 17\obj\Debug\Day 17.pdb
