@@ -10,10 +10,7 @@ namespace Bitmasks
     {
         static void Main(string[] args)
         {
-
-            string BaseDirectory = AppContext.BaseDirectory;
-            string Directory = BaseDirectory.Remove(BaseDirectory.Length - 10);
-            string[] Data = System.IO.File.ReadAllLines(Directory + "\\Data.txt");
+            string[] Data = System.IO.File.ReadAllLines("Data.txt");
 
             UInt64[] Memory = new UInt64[(int)Math.Pow(2,17)];
             UInt64 ToOnemask = 0;

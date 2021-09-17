@@ -74,11 +74,10 @@ namespace Day13
                     BiggestSkip = BusSlots[i];
                     SkipOffset = i;
                 }
-            }
-            
+            }            
 
             bool TimeFound = false;
-            long Time = 629787747787534;
+            long Time = 0;
             while (!TimeFound)
             {
 

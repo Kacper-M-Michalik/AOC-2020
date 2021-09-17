@@ -10,7 +10,7 @@ namespace Day_17
     {
         static void Main(string[] args)
         {
-            /*
+            /* PART 1
             string[] Lines = System.IO.File.ReadAllLines(@"E:\Advent Code\Day 17\Data.txt");
 
             string[,,] Input = new string[Lines[0].Length, Lines.Length,1];
@@ -120,7 +120,7 @@ namespace Day_17
             }
             */
 
-
+            //Part 2
             string[] Lines = System.IO.File.ReadAllLines("Data.txt");
 
             string[,,,] Input = new string[Lines[0].Length, Lines.Length, 1, 1];
